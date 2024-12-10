@@ -1,88 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Josh Woods's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Josh Woods
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="woodsjosh01.jw@gmail.com">woodsjosh01.jw@gmail.com</a>
 </div>
 
+# Joshua Woods
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+**Email:** woodsjosh01.jw@gmail.com • **Phone:** 254 278 1031 • [LinkedIn](linkedin.com/in/joshua woods2)
 
 ## Education
+**Brigham Young University - Idaho**  
+_Sep 2022 - Dec 2025_  
+**Bachelor of Science; Computer Science**  
+Overall GPA: 3.97 / 4.00
 
-`1654-1660`
-__The King's School, Grantham.__
+## Experience
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Brigham Young University - Web Development Tutor; Idaho**  
+_April 2024 - Present_  
 
-- Sizar
+* Instruct students in HTML, CSS, and JavaScript, cultivating independent problem-solving abilities and practical application skills.
+* Guide students through homework assignments, emphasizing conceptual understanding and skill development over direct completion.
+* Mentored and assisted 13 students in a semester, contributing to proficiency and confidence in frontend web development.
+* Facilitate interactive workshops and personalized sessions, resulting in measurable improvements in student performance and comprehension.
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Storm's Drive-In - Fast-Food Employee; Lampasas, TX**  
+_September 2017 - May 2020_  
 
-- Fellow
+* Collaborated with team members to achieve optimal customer satisfaction.
+* Managed various types of equipment and participated in workflow tasks as needed.
+* Organized each shift to address and resolve arising issues.
+* Trained new employees on operational procedures and customer service standards.
 
+## Leadership, Activities, Honors
 
+**Code Interview Society – Member; Rexburg, ID**  
+_September 2023 - December 2023_  
 
-## Awards
+* Competed in various coding challenges to apply and enhance relevant technical skills.
+* Collaborated with teammates to problem-solve efficiently, reviewing and improving each other's code.
+* Analyzed and discussed different algorithmic approaches to optimize coding solutions.
 
-`2012`
-President, *Royal Society*, London, UK
+**The Church of Jesus Christ of Latter-day Saints – Full-time Missionary; Wisconsin Milwaukee Mission**  
+_May 2020 - May 2022_  
 
-Associate, *French Academy of Science*, Paris, France
+* Committed 40+ hours per week to community service and outreach initiatives.
+* Developed effective communication skills through interactions with diverse cultural and linguistic groups.
+* Led and trained a team of 8 missionaries, facilitating professional development and goal-setting.
+* Organized and led weekly community service projects, involving local residents and organizations.
 
+## Additional Information
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- **Skills:** Python, C#, JavaScript, HTML/CSS, GitHub, MySQL/PostgreSQL, R, Svelte, Express.js
+- **Certifications:** Computer Programming, Full-Stack Web Development (In progress), Machine Learning (In progress)
+- **Languages:** Working knowledge in Hmong
+- **Work Eligibility:** Eligible to work in the U.S. with no restrictions
 
 <!-- ### Footer
 
